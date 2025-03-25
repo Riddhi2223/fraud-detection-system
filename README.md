@@ -1,7 +1,7 @@
 # Fraud Detection System
 
 Access the Fraud Detection System at: https://frauddetectionapiv1.whiteglacier-3a93264f.westus2.azurecontainerapps.io.
-Note: We are using a lower-power CPU for cost optimization, so please allow some time for the system to load on the first request.
+Note: I'm using a lower-power CPU for cost optimization, so please allow some time for the system to load on the first request.
 
 ## Overview
 The **Fraud Detection System** is a machine-learning-powered application that predicts fraudulent transactions in real-time. The system utilizes **XGBoost** for fraud classification, **FastAPI** as a web service, **Docker** for containerization, and is deployed on **Microsoft Azure Container Apps** for scalability and reliability.
